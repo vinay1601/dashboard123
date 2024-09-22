@@ -6,6 +6,7 @@
 
 body{
     background-color: #1C396C!important;
+    overflow: hidden;
 }
 .n1{
     padding: 20px 0 20px!important;
