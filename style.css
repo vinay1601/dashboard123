@@ -473,7 +473,7 @@ body{
     max-height: 800px;
     opacity: 0;
     background-color: #1C396C;
-    border-radius: 20px;
+    border-radius: 20px!important;
     z-index: -10;
 }
 .my-form2 {
